@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def correlation(array_0, array_1):
      '''ピアソンの積率相関係数(一次元)'''
      length = len(array_0)
